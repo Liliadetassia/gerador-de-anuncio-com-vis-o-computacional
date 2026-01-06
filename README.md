@@ -1,7 +1,7 @@
-##Tecnologias
+## Tecnologias
 Python
 OpenCV
 MediaPipe
 
-##Observações
+## Observações
 Pode modificar o prompt conforme sua necessidade.
