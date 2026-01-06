@@ -1,6 +1,8 @@
 ## Tecnologias
 Python
+
 OpenCV
+
 MediaPipe
 
 ## Observações
